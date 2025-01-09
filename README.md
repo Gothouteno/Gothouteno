@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Andre Sarr
 
 ## 🚀 About Me
 I'm a passionate developer who loves to create and learn new things. Whether it's building web applications, solving complex problems, or contributing to open source, I'm always excited to dive into new challenges.
@@ -40,7 +40,7 @@ Here are some projects I'm proud of:
 - [Something unique about your coding journey]
 
 ## 📫 How to Reach Me
-- 📧 Email: your.email@example.com
+- 📧 Email: anonymousperfide@gmail.com
 - 💬 Discord: YourDiscordHandle
 
 ---
