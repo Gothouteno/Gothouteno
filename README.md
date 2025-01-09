@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello, World! I'm [Your Name]
 
-<!--
-**Gothouteno/Gothouteno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who loves to create and learn new things. Whether it's building web applications, solving complex problems, or contributing to open source, I'm always excited to dive into new challenges.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** [e.g., JavaScript, Python]
+- **Frontend:** [e.g., React, Vue.js, HTML/CSS]
+- **Backend:** [e.g., Node.js, Django, Spring]
+- **Databases:** [e.g., MongoDB, PostgreSQL]
+- **Tools:** [e.g., Git, Docker, VS Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- AI
+- Deep Learning
+- Networkink / Cloud
+- Always exploring new technologies!
+
+## 💼 Projects
+Here are some projects I'm proud of:
+
+- **Waxma** - Chatbot
+  - [Key technologies used]
+  - [Link to repo/demo]
+- **Nu dem** - App not defined
+  - [Key technologies used]
+  - [Link to repo/demo]
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gothouteno&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect!
+- 💼 [LinkedIn](Your LinkedIn URL)
+- 🐦 [Twitter](Your Twitter URL)
+- 🌐 [Personal Website/Blog](Your Website URL)
+
+## 💡 Fun Facts
+- [Interesting fact about you]
+- [Another fun fact]
+- [Something unique about your coding journey]
+
+## 📫 How to Reach Me
+- 📧 Email: your.email@example.com
+- 💬 Discord: YourDiscordHandle
+
+---
+⭐️ From [YourGitHubUsername](https://github.com/Gothouteno)
