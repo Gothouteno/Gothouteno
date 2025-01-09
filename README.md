@@ -44,4 +44,4 @@ Here are some projects I'm proud of:
 - 💬 Discord: YourDiscordHandle
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/Gothouteno)
+⭐️ From [Gothouteno](https://github.com/Gothouteno)
