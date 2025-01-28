@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Andre Sarr
+# 👋 Hello, I'm Andre Sarr
 
 ## 🚀 About Me
 I'm a passionate developer who loves to create and learn new things. Whether it's building web applications, solving complex problems, or contributing to open source, I'm always excited to dive into new challenges.
